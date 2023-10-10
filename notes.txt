@@ -1,0 +1,20 @@
+0) TASK 6
+1 ) create a Todo Application using React 
+2) create application using compand npx create-react-app  to-do-application 
+3) make a folder structure 
+4) add Design and css 
+5) connect github accounts 
+5) build and Deploy
+
+--INSERT--
+
+
+
+
+-- INSERT --
+
+
+
+
+
+
